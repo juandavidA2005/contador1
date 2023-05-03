@@ -1,0 +1,45 @@
+*{
+    font-family: 'Righteous', cursive;
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+background-color: aqua;
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+img{
+   border-radius: 50%;
+   width: 200px;
+   height: 200px;
+}
+
+h1{
+
+  color: rgb(0, 46, 48);
+  font-size: 80px;
+  margin-bottom: 20px;
+}
+button{
+
+color: rgb(6, 69, 73);
+
+border-radius: 100px;
+background-color: rgba(red, green, rgb(3, 3, 65), alpha);
+}
+.show{
+    font-size: 100px;
+    margin-bottom: 50px;
+}
+
+.btns{
+    padding: 10px;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
